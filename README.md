@@ -10,12 +10,12 @@ Any tools or methods for finding subdomains from various resources. In this tool
 You should also install the other subdomain enumeration tools as per their respective documentation.
 You can install all tools from the following commands:
 
-sudo apt install subfinder 
-sudo apt install httpx 
-sudo apt install assetfinder
-sudo apt install amass
-sudo apt install findomian
-sudo apt install dnsenum
+1. sudo apt install subfinder 
+2. sudo apt install httpx 
+3. sudo apt install assetfinder
+4. sudo apt install amass
+5. sudo apt install findomian
+6. sudo apt install dnsenum
 
 Paste the following command one by one into your terminal and all tools are installed automatically in your system.
 
